@@ -22,7 +22,7 @@ This analysis reveals the relationship between government debt and revenue over 
 
 - Analysis of the debt-to-revenue ratio reveals trends in the government's debt sustainability over time.
 
-How to Use This Repository
+For this repository to be of help to you, you need to
 
 **Review the `Excel Workbook`**: Explore the data, formulas, and charts in the Excel file to understand the calculations and visualizations behind the analysis.
 
